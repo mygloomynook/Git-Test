@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Programming\\Repos\\GitTest\\GitTest.csproj",
+      "projectUniqueName": "G:\\Programming\\Repos\\Git-Test\\GitTest.csproj",
       "projectName": "GitTest",
-      "projectPath": "G:\\Programming\\Repos\\GitTest\\GitTest.csproj",
+      "projectPath": "G:\\Programming\\Repos\\Git-Test\\GitTest.csproj",
       "packagesPath": "C:\\Users\\Bohdan\\.nuget\\packages\\",
-      "outputPath": "G:\\Programming\\Repos\\GitTest\\obj\\",
+      "outputPath": "G:\\Programming\\Repos\\Git-Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "G:\\Microsoft\\Xamarin\\NuGet\\"
